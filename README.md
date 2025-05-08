@@ -18,7 +18,7 @@ A simple and elegant **To-Do List App** built using **HTML, CSS, and JavaScript*
 
 ---
 
-### 🖼️ Demo Preview
+
 
 
 ---
@@ -57,7 +57,14 @@ A simple and elegant **To-Do List App** built using **HTML, CSS, and JavaScript*
 
 ### 🌟 Author
 
-**\Julius Ametsitsi** — GitHub: [@yourusername](https://github.com/yourusername)
+**\Julius Ametsitsi** — GitHub:https://github.com/Mon-ster-Thelo!
+
+
+
+### 🖼️ Demo Preview
+
+![Screenshot (13)](https://github.com/user-attachments/assets/16b97acd-0ab6-44f6-aacb-e49e2e20488f)
+
 
 ---
 
